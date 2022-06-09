@@ -2,20 +2,20 @@
 
 
 <p align="center">
-<img src="(C:\Users\Wellington\Desktop\Cubo.png)"/>
+<img src="./C:\Users\Wellington\Desktop\Cubo.png)"/>
 </p>
 
 
 # ✔️ Descrição do Projeto:
-<font color="green"> Programa: Devstar PayLivre! </font>
+<b><i>Programa:</b></i> Devstar PayLivre!
 Formação completa que visa transformar você em um desenvolvedor back-end PHP na Paylivre, uma fintech em pleno crescimento.
 
-Realização: be.academy
+<b><i>Realização:</b></i> be.academy
 
-Curso: PHP
+<b><i>Curso:</b></i> PHP
 
-Aula: POO - Classes, métodos e atributos
-Prof. Alessandro Feitoza
+<b><i>Aula:</b></i> POO - Classes, métodos e atributos
+<b><i>Professor:</b></i> Alessandro Feitoza
 
 # ✔️ Técnicas e tecnologias utilizadas
 
