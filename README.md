@@ -37,8 +37,9 @@ Nós trabalhamos juntos para construir um futuro sem divisas, onde o tempo não 
 Nós somos feitos dos resultados e da prática de grandes players do mercado atual, que lideram empresas exponenciais que estão revolucionando o mundo e mudando a forma de empreender como Facebook, iFood, Paylivre, Loggi, LinkedIn, Amazon, Vtex, Inova 360, Hotmart, Fiesp e Endeavor.
 <br>
 
-# ✔️ Autor
+# ✔️ Autores
 - Wellington Bertolassi
+- [@Ton-devstart](https://github.com/Ton-devstart)😄
 <br>
 
 <p align="center">
