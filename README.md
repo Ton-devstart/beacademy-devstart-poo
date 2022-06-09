@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="./C:\Users\Wellington\Desktop\Cubo.png)"/>
+<img src="Cubo.png"/>
 </p>
 
 
@@ -13,8 +13,9 @@ Formação completa que visa transformar você em um desenvolvedor back-end PHP 
 <b><i>Realização:</b></i> be.academy
 
 <b><i>Curso:</b></i> PHP
-
+</br>
 <b><i>Aula:</b></i> POO - Classes, métodos e atributos
+</br>
 <b><i>Professor:</b></i> Alessandro Feitoza
 
 # ✔️ Técnicas e tecnologias utilizadas
