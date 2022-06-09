@@ -2,8 +2,10 @@
 
 
 <p align="center">
-<img src="Cubo.png"/>
+<img src="Cubo.png" width=40%/>
 </p>
+</br>
+</br>
 
 
 # ✔️ Descrição do Projeto:
