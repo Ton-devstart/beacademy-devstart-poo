@@ -24,25 +24,3 @@ $cursoPHP->nome = 'POO';
 $cursoPHP->$cargaHoraria = 4;
 $cursoPHP->$descricao = "Orientação a Objetos";
 $cursoPHP->$professor = "Alessandro";
-
-
-
-
-
-
-
-//$aluno = [
-//    'nome' => 'ton',
-//    'cpf' => '123.123.123-12',
-//];
-
-//$aluno2 = [
-//    'Nome' => 'elias',
-//    'cpf' => '123.123.123-12',
-//];
-
-//$aluno3 = [
-//    'NOME' => 'zé',
-//    'cpf' => '123.123.123-12',
-//];                       forma sem POO, que causa excesso de repetição e problemas quando há atributos com
-//                         nomes diferentes.
