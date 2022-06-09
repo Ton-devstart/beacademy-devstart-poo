@@ -1,6 +1,3 @@
-<h1 align="center"> beacademy-devstart-poo </h1>
-
-
 <p align="center">
 <img src="Cubo.png" width=40%/>
 </p>
